@@ -17,7 +17,7 @@ Get [vundle](https://github.com/gmarik/vundle).
 
 `.vimrc`:
 
-```vimscript
+```vim
 Bundle 'heartsentwined/vim-ember-script'
 ```
 
