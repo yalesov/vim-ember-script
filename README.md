@@ -13,7 +13,7 @@ Features:
 
 ## Vundle
 
-Get [vundle](https://github.com/gmarik/vundle)
+Get [vundle](https://github.com/gmarik/vundle).
 
 `.vimrc`:
 
