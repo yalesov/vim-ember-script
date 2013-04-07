@@ -11,6 +11,9 @@ Features:
 
 # Install
 
+`vim-ember-script` expects [vim-coffee-script](https://github.com/kchmck/vim-coffee-script)
+to be present. Make sure you install it too.
+
 ## Vundle
 
 Get [vundle](https://github.com/gmarik/vundle).
