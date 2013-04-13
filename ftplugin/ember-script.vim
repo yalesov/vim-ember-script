@@ -2,7 +2,7 @@
 " Maintainer:  heartsentwined <heartsentwined@cogito-lab.com>
 " URL:         http://github.com/heartsentwined/vim-ember-script
 " Version:     1.0
-" Last Change: 2013 Apr 7
+" Last Change: 2013 Apr 13
 " License:     GPL-3.0
 
 setlocal tabstop=2
@@ -11,3 +11,7 @@ setlocal shiftwidth=2
 setlocal smarttab
 setlocal expandtab
 setlocal smartindent
+
+setlocal formatoptions-=t formatoptions+=croqlj
+setlocal comments=:#
+setlocal commentstring=#\ %s
