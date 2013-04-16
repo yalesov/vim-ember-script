@@ -5,11 +5,12 @@
 " Last Change: 2013 Apr 7
 " License:     GPL-3.0
 
-if exists('b:current_syntax')
+if exists('b:current_syntax') && b:current_syntax == 'ember-script'
   finish
 endif
 
 runtime! syntax/coffee.vim
+unlet b:current_syntax
 
 " mixin and with
 syn match emKeyword /\vmixin|with/ display
