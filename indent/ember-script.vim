@@ -1,8 +1,8 @@
 " Language:    ember-script
 " Maintainer:  heartsentwined <heartsentwined@cogito-lab.com>
 " URL:         http://github.com/heartsentwined/vim-ember-script
-" Version:     1.0
-" Last Change: 2013 Apr 7
+" Version:     1.0.1
+" Last Change: 2013 Apr 17
 " License:     GPL-3.0
 
 if exists('b:did_indent')
