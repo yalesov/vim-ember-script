@@ -9,6 +9,8 @@ Features:
 * smart indentation
 * syntax highlighting
 
+This plugin contributes to [vim-polyglot](https://github.com/sheerun/vim-polyglot) language pack.
+
 # Install
 
 `vim-ember-script` expects [vim-coffee-script](https://github.com/kchmck/vim-coffee-script)
