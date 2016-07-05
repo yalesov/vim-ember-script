@@ -23,7 +23,7 @@ Get [vundle](https://github.com/gmarik/vundle).
 `.vimrc`:
 
 ```vim
-Bundle 'heartsentwined/vim-ember-script'
+Bundle 'yalesov/vim-ember-script'
 ```
 
 Launch vim, `:BundleInstall`.
@@ -34,12 +34,12 @@ Get [pathogen.vim](https://github.com/tpope/vim-pathogen).
 
 ```sh
 $ cd ~/.vim/bundle
-$ git clone https://github.com/heartsentwined/vim-ember-script.git
+$ git clone https://github.com/yalesov/vim-ember-script.git
 ```
 
 ## Manual install
 
-[Download](https://github.com/heartsentwined/vim-ember-script/tags) and
+[Download](https://github.com/yalesov/vim-ember-script/tags) and
 extract all scripts into `~/.vim` / `$HOME\vimfiles`.
 
 # License
