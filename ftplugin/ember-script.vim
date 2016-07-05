@@ -12,6 +12,10 @@ setlocal smarttab
 setlocal expandtab
 setlocal smartindent
 
-setlocal formatoptions-=t formatoptions+=croqlj
+if v:version < 703
+  setlocal formatoptions-=t formatoptions+=croql
+else
+  setlocal formatoptions-=t formatoptions+=croqlj
+endif
 setlocal comments=:#
 setlocal commentstring=#\ %s
