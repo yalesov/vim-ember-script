@@ -44,4 +44,4 @@ extract all scripts into `~/.vim` / `$HOME\vimfiles`.
 
 # License
 
-GPL 3.0
+ISC
